@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.elements{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.buttonRandom{
+    background-color: transparent;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 10px;
+}
